@@ -1,0 +1,8 @@
+venv/
+*.ovpn
+*.key
+*.pem
+config.py
+.env
+__pycache__/
+*.pyc
